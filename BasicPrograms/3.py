@@ -1,0 +1,5 @@
+name = input('Enter Name : ')
+fname = input('Enter Father Name :')
+age = input('Enter Age : ')
+edu =  input('Enter Eduction : ' )
+print(f'Name : {name}\nFater Name : {fname}\nAge : {age}\nEducation : {edu}')

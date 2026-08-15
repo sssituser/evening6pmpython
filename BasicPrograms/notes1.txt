@@ -1,0 +1,37 @@
+print()
+print(f'')
+variables
+type() : It is function which can be used know the type of the data
+	 stored in the variable.
+input() : It is a function which is used to 
+1.Display the string
+and can be used 
+2.Reads a string,
+3.Returns a string
+In  order read number any other data we need convert into 
+respective data type using predefined functions.
+		Type conversion functions
+1. int() : It is a function which can convert string into number.
+2. float(): It is a function which can converts string to float.
+3. complex(): It can convert string into complex number.
+4. str(): It can convert anything into string.
+
+			operations
+
+		1. Arithmetic operators  +,-,%,*,/--->Quo with decimal
+                                         // floor division.
+		5/2 ---> 2.5
+		5//2 ---> 2
+
+
+
+
+
+
+
+
+
+
+			Application
+	Softwares
+		1.Console App
