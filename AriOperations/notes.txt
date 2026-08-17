@@ -1,7 +1,0 @@
-+
--
-*
-/   which  gives restults with decimal (Quo with Decimal)
-//  which gives results without decimal(Quo without decimal)
-%  Remainderd
-** Exponentiation

@@ -1,0 +1,44 @@
++
+-
+*
+/   which  gives restults with decimal (Quo with Decimal)
+//  which gives results without decimal(Quo without decimal)
+%  Remainderd
+** Exponentiation
+
+Relational operators
+>
+<
+>=
+<=
+==
+!=
+Logical operators
+and            or          not
+
+
+p   q    p and q
+T   T      T
+T   F      F
+F   T      F
+F   F      F
+
+
+p   q    r    s     p and q and r and s
+T   T    T    T        True
+
+if all the conditions are true then the result is true
+other wise it is flase
+
+p   q  p || q
+T   T   T
+T   F   T
+F   T   T
+F   F   F
+
+if all the conditions are false the result is false other wise
+the result is false.
+
+not
+
+true not true=False
