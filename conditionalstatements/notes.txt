@@ -1,0 +1,15 @@
+if con :
+   stmt(s)
+------
+
+if(con):
+   smts
+
+In a program , any number of simple if
+
+if con or booeanexpression :
+    stmts-1
+else:
+    stmts-2
+case 1: con -> True ->  Interper Executes stmts-1
+case 2: con -> False -> Interpter Executes stmts-2
