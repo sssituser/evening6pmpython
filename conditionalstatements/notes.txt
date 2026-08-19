@@ -13,3 +13,41 @@ else:
     stmts-2
 case 1: con -> True ->  Interper Executes stmts-1
 case 2: con -> False -> Interpter Executes stmts-2
+Nested if :
+if-else holding another if-else is called Nested
+
+if be1 :
+    if be2:
+       stmts-1
+    else:
+      stmts-2
+else:
+    stmts-3
+
+case 1 : be1-True be-2-True  interpreter executes stmts-1
+
+case 2 : be1-True be-2-False Interper executes stmts-2
+
+case 3 : be1-False then Interper execute stmts-3
+
+elif ladder:
+if con-1:
+    stmts-1
+elif con-2:
+    smts-2
+elif con-3>
+    smts-3
+---------------------
+if con-1:
+  smts-1
+else:
+  stmts-2
+if con-2:
+   smts-3
+else:
+   stmts-4
+
+
+ 
+
+
