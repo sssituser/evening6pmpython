@@ -8,4 +8,4 @@ elif num==2:
 elif num==3:
     print('Three')
 else:
-    print('Enterd numer other than 0,1,2,3')
+    print('Enterd numer is other than 0,1,2,3')

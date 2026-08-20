@@ -46,6 +46,27 @@ if con-2:
    smts-3
 else:
    stmts-4
+=========switch========
+
+match caseconst:
+
+case case1:
+     stmt1:
+case case2:
+     stmt2:
+
+case case3:
+     sttms3
+
+_case:
+  default statement         
+
+
+
+
+
+
+
 
 
  
