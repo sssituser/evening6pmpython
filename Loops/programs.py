@@ -4,6 +4,9 @@ input 5: outut  1 2 3 4 5
 
 2. Write a program to find the sum of n number for the given number?
 input 5: sum = 1+2+3+4+5
+1.Gen number
+2.Sum the number
+
 
 3.Write a program to find the factorial of given number ?
  input : 5   Fact : 1*2*3*4*5=>120
@@ -15,5 +18,27 @@ input 5: sum = 1+2+3+4+5
 5.Counting the digits of a given number
 input : 123       Digits : 3
 input : 4567      Digit  : 4
+
+6.Write program to find the sum of the digits of a given number
+ input: 123   Sum: 1+2+3
+
+7.Write program to find the Avg of digits of a given number
+input : 123   Avg = sum/count Avg = 6/3 => 2
+
+8.Write a program find the reverse of a given number?
+    input : 567   Reverse : 765
+    input : 121   Reverse : 121
+9.Write a program to check given number is palindrome or not ?
+    input : 567  output : 567 is not a Palindrome
+    input : 343  output : 343 is  a Palindrome.
+10.Write a program to check given number is Armstrong ?
+    num = 153    num = 1cube+5cube+3cube=>1+125+27=> 153 is an Armstrong
+    num = 1634   num 1pow4+6pow4+3pow4+4pow4 => 1634 is an Armstrong number
+    num = 121    121 is not an Armstrong number
+
+
+
+
+
 
 '''
