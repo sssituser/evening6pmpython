@@ -51,6 +51,8 @@ num = 12   factors : 1,2,3,4,6,12
 num = 8           8 has 4 factors
 num = 12          12 has 6 facctors
 num = 5           5 has factors 2
+
+
 3.Find Sum of the factors of a number ?
 num = 6         sum  = 1+2+3+6 => sum = 12
 num = 8         sum = 1+2+4+8 => sum = 15
