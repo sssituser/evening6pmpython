@@ -1,0 +1,19 @@
+for can be used to read the data from sequential data types , as well
+we can use range function.
+
+syx:
+
+for var in sequentialDT/range(start,end,step):
+    stmts
+
+
+range(5)-----> 0,1,2,3,4
+
+
+range(1,5)------>1,2,3,4
+
+range(8)-------->0,1,2,3,4,5,6,7
+range(2,11)---->2,3,4,5,6,7,8,9,10
+
+range(2,21,2)--->2,4,6,8,10,..20
+range(3,31,3)--->
