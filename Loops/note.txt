@@ -1,0 +1,5 @@
+break : It is a statement which is used to stop the 
+exectution of the applicaiton.
+
+continue : It a statement can be used for the execution,
+it skips particular iteration.
