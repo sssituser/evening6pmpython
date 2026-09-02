@@ -5,6 +5,8 @@ print(len(numsList))
 # len is function which can be used to count the elements present in sequential data or string
 print(numsList)
 # displaying the list elements using +ve index
+
+
 for i in range(len(numsList)):
     print(f'{i}---->{numsList[i]}')
     

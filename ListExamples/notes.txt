@@ -1,0 +1,16 @@
+append()	Adds one item
+insert()	Adds item at a specific index
+extend()	Adds multiple items
+
+remove()	Removes a specific value
+pop()	Removes an item by index
+clear()	Removes all items
+
+index()	Finds the index of an item
+count()	Counts occurrences
+sort()	Sorts the list
+reverse()	Reverses the list
+
+
+[start:count:step]===> Insertion order
+[step:End:start]===> Reverse order
