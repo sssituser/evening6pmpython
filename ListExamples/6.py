@@ -12,3 +12,5 @@ li =[45,67,89,34,56,23,45,67]
 # print(li)
 print(li.__contains__(100))
 print(li.__contains__(89))
+
+print(dir([]))
