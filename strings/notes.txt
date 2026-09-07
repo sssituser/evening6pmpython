@@ -1,0 +1,16 @@
+string : Anything written single quotes or 
+double quotes, triple quotes can be called as string.
+In order to work with the strings, we use predefined methods 
+of a string class.
+string immutable.
+In order to deal with string we use +ve index and -ve index
+we can use slicing in string.
+Example :
+"abcd"
+'12344'
+'===$$$&&&'
+'''dsfasfdj43243248974004923--==98*/*/'''
+""
+''
+''''''
+string is a class.
