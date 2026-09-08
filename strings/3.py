@@ -10,8 +10,9 @@
 # s1 = "3456"
 # print(s1.isnumeric())
 s = "19-Oct-2025"
-char = input('Enter a character to split : ')
-li = s.split(char)
-print(li)
-li.append(char)
-print(li)
+# char = input('Enter a character to split : ')
+# li = s.split(char)
+# print(li)
+# li.append(char)
+# print(li)
+print(s.split('-'))
