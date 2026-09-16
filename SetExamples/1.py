@@ -1,0 +1,13 @@
+# s = set()
+# print(type(s))
+li =[10,30,30,40,50]
+print(f'{li} and its types {type(li)}')
+s = set(li)
+print(f'{s} and its type {type(s)}')
+t = (56,78,90,56)
+print(f'{t} and its types is {type(t)}')
+p = set(t)
+print(f'{p} and its types is {type(p)}')
+l1 = list(s)
+tu1 = tuple(p)
+print(f'l1 = {l1}       tu1 = {tu1}')
