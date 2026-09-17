@@ -1,0 +1,6 @@
+fs1 = frozenset({78,45,23,89,87})
+fs2 = frozenset({88,55,33,99,77})
+fs = fs1.union(fs2)
+print(fs1)
+print(fs2)
+print(fs)
