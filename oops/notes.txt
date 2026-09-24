@@ -1,0 +1,23 @@
+Class :
+      It is the blue print the object.(Conceptial)
+
+      Class : It is the combination of data types and methods.
+
+      These are also called as class members.
+
+      These memebers are of two types.
+      1.static members :
+        The variables which are declared inside the class can be called
+        static variables.
+        The methods without self keyword are static methods.
+        static members can be accessed using classname
+
+      2.non static members(Instance members)
+
+
+
+   The programms executed on the RAM(Random Access Memory)
+            stack           Heap Memory
+
+            The variables can stored memory
+            The objects can be stored in the heap
