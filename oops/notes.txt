@@ -21,3 +21,42 @@ Class :
 
             The variables can stored memory
             The objects can be stored in the heap
+
+
+Constructor : It is a special method.
+              It will not return a valule.
+              It will be invoked when the object created.
+              It is used to construct the object.
+              It will defined with __init__()
+
+              constructor is of different types
+              1.Constructor withoout Parameters
+              2.Constructor with Parameters
+              3. In python only constructor can be created in the class.
+
+There are three types variables
+1. public :
+  These variables can be accessed inside the class
+  out side of the class.
+  They can be Inheried
+  self.variable
+2. private:
+   Private variables can be accessed with in the class
+   They can't be accessed outside of the class
+   They can't be Inhertied
+   self.__variable
+
+3. protected :
+  protected members can be accessed with in the class
+  they can't be accessed outside of the class
+  they can be inherited
+  self._variablename
+
+
+
+
+
+
+
+
+
