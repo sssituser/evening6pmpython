@@ -52,6 +52,20 @@ There are three types variables
   they can be inherited
   self._variablename
 
+Inheritance  :
+              Acquiring properties from parent to class to child class.
+                            or
+              Deriving a subclass from a super class.
+                            
+
+
+
+
+
+
+
+
+
 
 
 
