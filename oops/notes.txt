@@ -48,7 +48,7 @@ There are three types variables
 
 3. protected :
   protected members can be accessed with in the class
-  they can't be accessed outside of the class
+  they can be accessed outside of the class
   they can be inherited
   self._variablename
 
