@@ -1,0 +1,81 @@
+What is an Error :
+    It is mistake in the program, so that the mistake will no allow 
+    application to execute.
+
+    Errors are of Two types :
+        1. Compiltion Errors : The errors that can  occurs during the compilation time, are called
+        compilation errors.
+        Errors : Syntax :
+                 Indentation Error
+                 : missing etc....
+
+        Solution : Provide Proper Indentation
+                 : Provde colon where your missing 
+
+        In order to provide sulution for Syntax errors is provide proper syntax.
+        
+
+        2. Runtime Errors :
+                The Errors which can occur during the exution of the application are called
+                Runtime Errors.
+                These also called Exceptions.
+                Exceptions(Runtime Errors) can cause abnormal termination of the application.
+
+                ------------------
+                Exception Handling :
+                -------------------
+                In order to avoid or In order to handle Exceptions we use
+               
+                try  : It is a block in which we write risky code, where try block will try execute
+                the code , if is not, it raises exception objects internally.
+
+                try block can't be written ideally, It must followed with either except block
+                or finally block.
+
+                riskey code : It is a code in which we expect  exceptions.
+
+                Except : It is a block which can catch the exceptions which are raised in the try
+                block.
+                    These are of two types.
+                    1. Individual Except block:
+                            It is a block which can catch particular
+                            exception objects only.
+                            It is used to provide suitable messages
+                            to  the end user why they are facing issue.
+
+
+                    2. common Except block :
+                        It is a block which can  catch all
+                        Exception objects which are raised in
+                        try block.
+                        This block can be written with
+                        except keyword with colon.
+
+                        Except block with Exception class
+
+                raise :
+                    It is a statement which can be used to raise the know objects exteranlly to
+                    suitable except block.
+
+                finally : It is a block which can be executed , after executing
+                try, except blocks respectively.
+                It is used to generate commn messages to the enduser.
+                closing database connections can be done.
+
+                Exeptions are predefined classes which are inherited from Exception class.
+                Examples: ValueError , ZeroDivisionError
+
+                Custome Exception : The exception which are created by the developer can be 
+                called Custom Exception(User Defined Exception).
+
+                Steps Create Custom Exception:
+    ============================================
+                1. Create class
+                2. Inherit Excepttion class
+                3. Create the Constructor whith message
+    ==========================================
+                Steps Consume the Exception
+                Create application
+                Consume the application
+
+

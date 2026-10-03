@@ -16,3 +16,11 @@ It is of different types
 5. Hybrid Inheritance:
     combination of any two Inheritances
         Multi level and Multiple Inheritance
+
+super(): It is keyword which is used to transfer the data from child class construtor
+to parent class construtor.
+
+It is used access parent class methods also.
+
+In order to avoid the Inheritance to the other class we need use the 
+decorator @final

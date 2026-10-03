@@ -1,9 +1,12 @@
+from typing import final
+
 class A:
     def readnums(self,num1,num2):
         self.num1 = num1
         self.num2 = num2
     def getnums(self):
         print(f'num1 : {self.num1}\tnum2 : {self.num2}')
+
 class B(A):
     def sum(self):
         print(f'Sum : {self.num1+self.num2}')
