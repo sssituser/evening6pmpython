@@ -1,0 +1,26 @@
+ManyForms with Same Name
+An Entity Exbhiting different properties can be called
+polymorphism
+
+It is of two types.
+    1. Compile Time polymorphism :
+        The polymorphism which can be achieved during the compilation time is
+        called Compile time polymorphism.
+            1. Function Overloading
+            2. Method Overloading
+            3. Operator Overloading
+
+    2. Rut time polymorphism
+        The polymorphism which can be achieved during the execution Runtime polymorphism
+            4. Metohd Overloading(DuckType)
+
+
+            1. Function Overloading
+                    A sigle Function performing different operations is called
+                    function Overloading.
+                    
+            2. Method Overloading
+            3. Operator Overloading
+            4. Metohd Overriding(DuckType)
+
+Defing  a same method in the parent and class in child class
