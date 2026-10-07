@@ -9,10 +9,10 @@ It is of two types.
             1. Function Overloading
             2. Method Overloading
             3. Operator Overloading
-
+            4. Metohd Overriding(DuckType)
     2. Rut time polymorphism
         The polymorphism which can be achieved during the execution Runtime polymorphism
-            4. Metohd Overloading(DuckType)
+            4. Metohd Overriding(DuckType)
 
 
             1. Function Overloading
@@ -24,3 +24,18 @@ It is of two types.
             4. Metohd Overriding(DuckType)
 
 Defing  a same method in the parent and class in child class
+
+
+1.class
+    Constructor
+    Constructor Chaining
+2.object
+3.encapsulation
+4.Abstraction
+5.Inheritance
+6.polymorphism
+7.Exception handling
+8.Filehandling
+9.Mulitthreadding
+10.PDBC connectivity.
+11.MiSC
