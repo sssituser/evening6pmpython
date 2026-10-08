@@ -1,0 +1,23 @@
+                Python
+In order to develop applications
+1.Software :
+    i.CUI(Character User Interface) or CommandLine Application or Command Prompt
+    ii.GUI()  or windows
+2.Web applications
+3.Mobile applications
+4.DataScience applications
+5.Data Analaytics
+6.AI and ML
+Fornt End  =====  BACKEND(DataBase)
+  Console<========> Oracle, Mysql, MognoDB
+            PDBC
+
+            ==========BACKEND READY==========
+Create database eve6db;
+            use eve6db;
+create table tbl_Employee
+(
+    eid int primary key,
+    ename varchar(10) not null,
+    esal int not null
+);
