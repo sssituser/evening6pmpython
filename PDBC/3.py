@@ -14,8 +14,7 @@ def checkrecord(id):
     if rec:
         return True
     else:
-        return False
-    
+        return False 
 while True:
     con = mysql.connect(host="localhost",user="root",password='root',database='eve6db')
     cur = con.cursor();

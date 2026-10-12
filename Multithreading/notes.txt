@@ -1,0 +1,53 @@
+1.While watching videos,  you can send mail
+ or you can listen the songs, or we can print is
+multi tasking .
+
+Multi tasking is of Two Types
+1.Process based Multi tasking.
+	
+	Process based multitasking can be achieved at OS.
+	In process based multitasking every process independent   
+	to each other.
+	Every Process will occupy individual memory.
+
+2.Thread based multi tasking.
+	Thread based multi tasking can be achieved at programming.
+	In Thread based multi tasking , for entire threads there
+	will be only memory.
+	
+	import threading
+	import time
+
+	Thread is a light weight process.
+	Executing multiple threads at time is called thread based
+	multi tasking.
+	
+	multithreading.
+
+			Thread Life cycle
+=
+	1. It is a light weight process
+	2. In order to work with threading based multitasking
+	   we use threading module to create threads, and to
+	   execute threads, time module for to stop the execution
+	  particular time interval.
+
+	===============================
+	1. Un started state---- Creating threads
+	2. Ready state --- calling start method using threads is called 
+	4. Runing state -- Executing the thread is called running state
+	3. non-runnable state --- making thread to wait for particular interval 
+	5. dead state -- Thread completing its execution is called dead state
+	
+	
+
+
+
+
+
+
+
+
+
+
+
