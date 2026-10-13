@@ -20,9 +20,7 @@ Multi tasking is of Two Types
 
 	Thread is a light weight process.
 	Executing multiple threads at time is called thread based
-	multi tasking.
-	
-	multithreading.
+	multi tasking or 	multithreading.
 
 			Thread Life cycle
 =
@@ -33,13 +31,17 @@ Multi tasking is of Two Types
 	  particular time interval.
 
 	===============================
-	1. Un started state---- Creating threads
+	1. Un started state---- Creating threads(creating objects for the threads)
 	2. Ready state --- calling start method using threads is called 
 	4. Runing state -- Executing the thread is called running state
 	3. non-runnable state --- making thread to wait for particular interval 
 	5. dead state -- Thread completing its execution is called dead state
 	
-	
+  1. highest
+  2. Above normal
+  3. normal
+  4. below normal
+  5. lowest	
 
 
 
